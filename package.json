@@ -1,0 +1,30 @@
+{
+  "name": "qqvue77",
+  "version": "1.0.0",
+  "description": "pet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrettyCC/QQvue77.git"
+  },
+  "keywords": [
+    "QQ"
+  ],
+  "author": "wenwen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrettyCC/QQvue77/issues"
+  },
+  "homepage": "https://github.com/PrettyCC/QQvue77#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "mysql": "^2.16.0"
+  }
+}
